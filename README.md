@@ -10,7 +10,7 @@ Daniel Gomes - rm575813
 
 ## Links
 - Simulação no Wokwi: (https://wokwi.com/projects/479050121307951105)
-- Vídeo de explicação (até 3 min): [COLAR LINK]
+- Vídeo de explicação (até 3 min): (https://youtu.be/Uh8X1OJLWws?is=WYRQ6YXdNgXG1TNb)
 
 
 ## Faixas monitoradas
